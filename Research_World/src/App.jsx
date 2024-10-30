@@ -7,6 +7,7 @@ function App() {
       {/* <h1 className="text-3xl text-blue-300">Hello</h1> */}
       <Header/>
       <Footer/>
+      
     </>
   )
 }
