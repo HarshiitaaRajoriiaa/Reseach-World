@@ -14,7 +14,6 @@ export default function OpeningPage() {
         <Homepage/>
         <Services/>
         <About/>
-        <Testimonials/>
         <Contact/>
         <Footer/>
     </div>

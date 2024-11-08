@@ -21,7 +21,7 @@ export default function Services() {
                 <div className='bg-[#00264d] m-4 text-white h-fit p-5 rounded-lg shadow-slate-600 shadow-lg hover:scale-105  w-fit'>
                     <img className="rounded-lg  h-80" src="../Images/network.jpg" />
                     <h1 className='  mt-2 text-xl  text-center text-[#e79c41] font-bold'> Collaborative Networking</h1>
-                    <div className='w-80 text-center '>Offer options to connect or follow researchers, enabling users to build networks based on common research interests through their mails , university , country .</div> 
+                    <div className='w-80 text-center '> enabling users to build networks based on common research interests through their mails , university , country .</div> 
                 </div>
 
             </div>
