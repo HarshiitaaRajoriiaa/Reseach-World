@@ -1,7 +1,6 @@
 import React from 'react';
 import { BsDiamondFill } from "react-icons/bs";
-
-export default function AboutUs() {
+export default function About() {
   return (
     <>
       <div className="bg-black text-white w-full font-mono h-full flex flex-col">
