@@ -4,7 +4,8 @@ export default function TaglineSection() {
     return (
         <>
             <div className='w-full h-screen flex flex-col items-center justify-center  bg-[#00264d]  text-white'>
-                <div className="Tag_Line text-center text-6xl font-semibold mb-4">
+            <div className="title  text-7xl mb-6 ">RESEARCH HUB</div>
+                <div className="Tag_Line text-center text-5xl font-semibold mb-4">
                     Empowering Research Connections Across  <span className='bg-gradient-to-r from-orange-600 via-white to-green-400 inline-block text-transparent bg-clip-text'>India</span>
                 </div>
                 <div className="Sub_Tag_Line mt-5 text-center text-xl max-w-4xl px-4">
